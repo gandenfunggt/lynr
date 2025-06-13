@@ -1,0 +1,18 @@
+{
+  "whyContinueWithGen1": "I find the Gen 1 CLI easier to use",
+  "projectName": "lynr",
+  "version": "3.1",
+  "frontend": "javascript",
+  "javascript": {
+    "framework": "react-native",
+    "config": {
+      "SourceDir": ".",
+      "DistributionDir": ".",
+      "BuildCommand": "npm run-script build",
+      "StartCommand": "npx expo start"
+    }
+  },
+  "providers": [
+    "awscloudformation"
+  ]
+}

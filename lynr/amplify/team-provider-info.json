@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-lynr-dev-01a69-authRole",
+      "UnauthRoleArn": "arn:aws:iam::889008492959:role/amplify-lynr-dev-01a69-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::889008492959:role/amplify-lynr-dev-01a69-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-lynr-dev-01a69-deployment",
+      "UnauthRoleName": "amplify-lynr-dev-01a69-unauthRole",
+      "StackName": "amplify-lynr-dev-01a69",
+      "StackId": "arn:aws:cloudformation:us-east-1:889008492959:stack/amplify-lynr-dev-01a69/eb25fee0-4735-11f0-8841-1249ad34c09d",
+      "AmplifyAppId": "d2kitl9pdhmztt"
+    },
+    "categories": {
+      "auth": {
+        "lynrba95fc32": {}
+      }
+    }
+  }
+}
