@@ -1,0 +1,12 @@
+{
+  "AppSyncApiName": "lynr",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthCognitoUserPoolId": {
+    "Fn::GetAtt": [
+      "authlynrba95fc32",
+      "Outputs.UserPoolId"
+    ]
+  },
+  "AuthModeLastUpdated": "2025-06-16T18:48:26.473Z"
+}

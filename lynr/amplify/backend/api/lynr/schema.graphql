@@ -1,0 +1,9 @@
+type ClothingItem @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  name: String!
+  type: String!
+  size: String
+  imageKey: String!
+  createdAt: AWSDateTime
+  updatedAt: AWSDateTime
+} 

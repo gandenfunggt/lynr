@@ -11,21 +11,24 @@
   "dependencies": {
     "@aws-amplify/auth": "^6.13.0",
     "@aws-amplify/react-native": "^1.1.10",
+    "@aws-amplify/storage": "^6.9.0",
     "@aws-amplify/ui-react-native": "^2.5.3",
     "@react-native-async-storage/async-storage": "^2.2.0",
     "@react-native-community/netinfo": "^11.4.1",
     "@react-navigation/bottom-tabs": "^7.3.14",
     "@react-navigation/native": "^7.1.10",
     "@react-navigation/native-stack": "^7.3.14",
+    "@react-navigation/stack": "^7.3.3",
     "aws-amplify": "^6.15.0",
     "expo": "~53.0.11",
+    "expo-image-picker": "~16.1.4",
     "expo-status-bar": "~2.2.3",
     "react": "19.0.0",
     "react-native": "0.79.3",
+    "react-native-gesture-handler": "~2.24.0",
     "react-native-get-random-values": "^1.11.0",
     "react-native-safe-area-context": "5.4.0",
-    "react-native-screens": "~4.11.1",
-    "react-native-gesture-handler": "~2.24.0"
+    "react-native-screens": "~4.11.1"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",

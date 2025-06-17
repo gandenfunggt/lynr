@@ -1,0 +1,14 @@
+{
+  "resourceName": "clothesStorage",
+  "policyUUID": "63531a2e",
+  "bucketName": "lynr5757cd4dd09a415b9c09a93847a49c92",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}

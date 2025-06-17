@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "lynrba95fc32": {}
+      },
+      "storage": {
+        "clothesStorage": {}
+      },
+      "api": {
+        "lynr": {}
       }
     }
   }

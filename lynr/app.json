@@ -14,14 +14,19 @@
     },
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.anonymous.lynr"
+      "bundleIdentifier": "com.anonymous.lynr",
+      "infoPlist": {
+        "NSCameraUsageDescription": "This app uses the camera to let you add clothing items.",
+        "NSPhotoLibraryUsageDescription": "This app needs access to your photo library to select clothing images."
+      }
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "com.anonymous.lynr"
     },
     "web": {
       "favicon": "./assets/favicon.png"
